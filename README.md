@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## View demo:
+https://live-document-editor-8na3zblxk-linhs-projects-dc8f6fbc.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
